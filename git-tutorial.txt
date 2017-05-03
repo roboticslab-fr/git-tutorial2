@@ -1,4 +1,9 @@
 Welcome to new students.
 
 New line added
+<<<<<<< HEAD
 Third line added
+=======
+
+This is a modification
+>>>>>>> new
